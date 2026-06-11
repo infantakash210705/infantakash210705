@@ -18,57 +18,48 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td>
 
-<br/>
+🎓 **B.Tech IT Student** at Rathinam Technical Campus
 
-```python
-class InfantAkash:
-    def __init__(self):
-        self.name       = "Infant Akash W"
-        self.location   = "📍 Coimbatore, Tamil Nadu, India"
-        self.degree     = "B.Tech – IT @ Rathinam Technical Campus"
-        self.cgpa       = 8.79
+🛡️ **Cybersecurity Enthusiast**
+- SOC Operations
+- Threat Hunting
+- SIEM & ELK Stack
+- Network Security
 
-        self.roles = [
-            "🛡️  Cybersecurity Engineer",
-            "🌐  Full Stack Developer",
-            "🤖  AI/ML Explorer",
-            "🔍  SOC Analyst & Threat Hunter",
-        ]
+🤖 **AI/ML Explorer**
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Multi-Agent Systems
 
-        self.stack = {
-            "security" : ["Suricata","Wireshark","ELK Stack","Splunk","Nmap"],
-            "backend"  : ["Python","Flask","REST APIs","Java","C"],
-            "frontend" : ["React.js","HTML5","CSS3","JavaScript"],
-            "ai_ml"    : ["TensorFlow","Scikit-learn","Pandas","NumPy","OpenCV"],
-            "databases": ["PostgreSQL","MongoDB","SQLite"],
-            "cloud"    : ["AWS","Linux","Kali Linux","GitHub"],
-        }
+🌐 **Full Stack Developer**
+- React.js
+- Flask
+- REST APIs
+- MongoDB & PostgreSQL
 
-        self.currently_learning = [
-            "🧠  Machine Learning for Anomaly Detection",
-            "☁️  AWS Security & Cloud Threat Modelling",
-            "🦠  Malware Analysis & Reverse Engineering",
-            "🐳  Docker & Container Security",
-        ]
+☁️ **Cloud & DevOps**
+- AWS
+- Docker
+- Linux
 
-        self.fun_fact  = "Scored 100% in 10th grade & never stopped chasing perfection 🎯"
+🚀 Building secure and intelligent applications that solve real-world problems.
 
-    def motto(self) -> str:
-        return "Defend. Detect. Respond. Repeat. 🛡️"
+</td>
+<td>
 
-me = InfantAkash()
-print(me.motto())
-```
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
+</td>
+</tr>
+</table>
 <br clear="right"/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=infantakash210705&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10&layout=compact" alt="wakatime" />
-</div>
 
 ---
 
@@ -82,31 +73,6 @@ print(me.motto())
   </picture>
 </div>
 
-> 💡 **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: infantakash210705
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -161,12 +127,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/infantakash210705">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infantakash210705&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/infantakash210705">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infantakash210705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=infantakash210705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infantakash210705&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -184,15 +149,6 @@ print(me.motto())
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=infantakash210705&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=infantakash210705&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
 ---
 
 ## 💼 Work Experience
@@ -256,7 +212,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 B.Tech – Information Technology | Rathinam Technical Campus, Coimbatore | Sep 2023 – Present | CGPA: **8.79** |
+| 🎓 B.Tech – Information Technology | Rathinam Technical Campus, Coimbatore | Sep 2023 – Present | CGPA: **8.89** |
 | 📘 Higher Secondary (12th) | Sri Visweswara Vidyalaya Matric Hr Sec School | Jun 2022 – Mar 2023 | **72.8%** |
 | 📗 Secondary School (10th) | Sri Visweswara Vidyalaya Matric Hr Sec School | Jun 2020 – Mar 2021 | **100%** |
 
@@ -288,7 +244,7 @@ print(me.motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/w-infant-akash-32767b2aa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infantakash260@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infantakash210705)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge)](https://infantakash-cyberstack.onrender.com/)
 
 <br/>
 
